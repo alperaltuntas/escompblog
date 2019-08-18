@@ -10,5 +10,5 @@ author: Alper Altuntas
 
 In this blog, you'll find posts about scientific software development and, in particular, earth system modeling. 
 
-Check out [About](/about) for more info.
+Check out [About](/about/) for more info.
 
