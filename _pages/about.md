@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-The ESCOMP blog is a platform for sharing ideas, experiences, and opinions on scientific software development and, in particular, earth system modeling. 
+In 2005, The President’s Information Technology
+Advisory Committee (PITAC) issued a report referring to
+computation as a “third pillar” of science, placing it alongside
+theory and experimentation. The ESCOMP blog is a platform for 
+sharing ideas, experiences, and opinions on scientific software 
+development and, in particular, earth system modeling. 
 
-Posts are categorized in two main groups:
- - Blog
- - Tutorial
 
 ***Goals***:
 - To promote best software engineering practices in scientific computing.
@@ -17,7 +19,11 @@ Posts are categorized in two main groups:
 
 The ***scope*** of the blog includes, but not limited to:
 
- - Model development, testing and verification, software correctness, development environments, tools for visualization and analysis, automation tools, software carpentry, data science, optimization, programming languages and paradigms, high performance computing, etc.
+ - Model development, testing and verification, software correctness, development environments, tools for visualization and analysis, automation tools, software carpentry, data science, optimization, programming languages and paradigms, high performance computing.
+
+Posts are ***categorized*** in two main groups:
+ - Blog
+ - Tutorial
 
 ***Audience***:
 
